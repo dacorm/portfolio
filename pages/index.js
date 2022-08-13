@@ -149,17 +149,6 @@ const Home = () => (
               </Button>
             </Link>
           </ListItem>
-          <ListItem>
-            <Link href="https://www.instagram.com/smmguud" target="_blank">
-              <Button
-                variant="ghost"
-                colorScheme="teal"
-                leftIcon={<IoLogoInstagram />}
-              >
-                @dacorm
-              </Button>
-            </Link>
-          </ListItem>
         </List>
       </Section>
     </Container>
